@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BtKerAe6.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"about/page.md","filePath":"about/page.md","lastUpdated":null}'),o={name:"about/page.md"};function r(s,n,p,c,d,_){return a(),t("div")}const m=e(o,[["render",r]]);export{l as __pageData,m as default};
